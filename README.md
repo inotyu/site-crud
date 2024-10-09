@@ -1,4 +1,3 @@
-
 # CRUD Web Application using Streamlit and MySQL Connector
 Projeto criado para conectar um banco de dados com python, usando mysql connector onde o usuário
 informará os dados a serem adicionados no banco.
