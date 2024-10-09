@@ -1,8 +1,7 @@
 
 # CRUD Web Application using Streamlit and MySQL Connector
 
-![English](https://img.icons8.com/flags/48/000000/english.png](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg) [English Instructions](#english-instructions) 
-![Português]([https://img.icons8.com/flags/48/000000/brazil.png]([https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg))) [Instruções em Português](#instruções-em-português)
+[![English](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png)](#english-instructions) [![Português](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg)](#instruções-em-português)
 
 This project is a web application built using Streamlit, Python, and MySQL Connector that allows users to perform CRUD (Create, Read, Update, Delete) operations.
 
