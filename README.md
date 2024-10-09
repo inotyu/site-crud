@@ -2,7 +2,7 @@
 # CRUD Web Application using Streamlit and MySQL Connector
 
 [![English](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/50px-Flag_of_the_United_Kingdom_%283-5%29.svg.png)](#english-instructions) 
-[![Português](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/50px-Flag_of_Brazil.svg.png)](#nstruções-em-português)
+[![Português](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/50px-Flag_of_Brazil.svg.png)]([#nstruções-em-português](https://github.com/inotyu/site-crud/blob/main/README.md#-instru%C3%A7%C3%B5es-em-portugu%C3%AAs))
 
 This project is a web application built using Streamlit, Python, and MySQL Connector that allows users to perform CRUD (Create, Read, Update, Delete) operations.
 
