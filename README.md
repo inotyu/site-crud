@@ -1,6 +1,8 @@
 
 # CRUD Web Application using Streamlit and MySQL Connector
 
+
+## Select Your Language / Selecione seu Idioma
 [![English](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/50px-Flag_of_the_United_Kingdom_%283-5%29.svg.png)](#english-instructions) 
 [![Português](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/45px-Flag_of_Brazil.svg.png)](#-instruções-em-português)
 
