@@ -2,7 +2,7 @@
 # CRUD Web Application using Streamlit and MySQL Connector
 
 ![English](https://img.icons8.com/flags/48/000000/english.png) [English Instructions](#english-instructions) 
-![Português](https://img.icons8.com/flags/48/000000/brazil.png) [Instruções em Português](#instruções-em-português)
+![Português]([https://img.icons8.com/flags/48/000000/brazil.png](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg)) [Instruções em Português](#instruções-em-português)
 
 This project is a web application built using Streamlit, Python, and MySQL Connector that allows users to perform CRUD (Create, Read, Update, Delete) operations.
 
