@@ -1,5 +1,3 @@
---
-
 ## CRUD Web Application using Streamlit and MySQL Connector
 
 ### Select Your Language / Selecione seu Idioma
