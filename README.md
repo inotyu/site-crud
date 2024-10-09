@@ -1,11 +1,12 @@
-# CRUD Web Application using Streamlit and MySQL Connector
+--
 
+## CRUD Web Application using Streamlit and MySQL Connector
 
-## Select Your Language / Selecione seu Idioma
-[![English](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/50px-Flag_of_the_United_Kingdom_%283-5%29.svg.png)](#-english-instructions) 
-[![Português](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/45px-Flag_of_Brazil.svg.png)](#-instruções-em-português)
+### Select Your Language / Selecione seu Idioma
+[![English](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/50px-Flag_of-the-United-Kingdom_%283-5%29.svg.png)](#-english-instructions) 
+[![Português](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/45px-Flag_of-Brazil.svg.png)](#-instruções-em-português)
 
-This project is a web application built using Streamlit, Python, and MySQL Connector that allows users to perform CRUD (Create, Read, Update, Delete) operations.
+Este projeto é uma aplicação web construída usando Streamlit, Python, MySQL Connector e pandas, que permite aos usuários realizar operações CRUD (Criar, Ler, Atualizar, Deletar).
 
 <a href="https://ibb.co/vjGcy0z"><img src="https://i.ibb.co/S386YFv/Captura-de-Tela-3.png" alt="Captura-de-Tela-3" border="0" /></a>
 
@@ -29,7 +30,7 @@ This project is a web application built using Streamlit, Python, and MySQL Conne
 3. **Install required packages:**
 
    ```bash
-   pip install streamlit mysql-connector-python
+   pip install streamlit mysql-connector-python pandas
    ```
 
 4. **Set up your MySQL database:**
@@ -67,7 +68,7 @@ This project is a web application built using Streamlit, Python, and MySQL Conne
 3. **Instale os pacotes necessários:**
 
    ```bash
-   pip install streamlit mysql-connector-python
+   pip install streamlit mysql-connector-python pandas
    ```
 
 4. **Configure seu banco de dados MySQL:**
@@ -94,4 +95,5 @@ Feel free to contribute by submitting issues or pull requests.
 ### License
 
 This project is licensed under the MIT License.
-```
+
+--- 
