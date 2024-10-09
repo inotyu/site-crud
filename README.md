@@ -1,10 +1,8 @@
-# site-crud
-
-
 
 # CRUD Web Application using Streamlit and MySQL Connector
 
-![English]([[https://img.icons8.com/flags/48/000000/english.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png)]()) ![Português]([[https://img.icons8.com/flags/48/000000/brazil.png](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg)](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg))
+![English](https://img.icons8.com/flags/48/000000/english.png) [English Instructions](#english-instructions) 
+![Português](https://img.icons8.com/flags/48/000000/brazil.png) [Instruções em Português](#instruções-em-português)
 
 This project is a web application built using Streamlit, Python, and MySQL Connector that allows users to perform CRUD (Create, Read, Update, Delete) operations.
 
@@ -96,4 +94,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Sinta-se à vontade para fazer qualquer ajuste que achar necessário!
+
