@@ -7,6 +7,8 @@
 [![Português](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/45px-Flag_of-Brazil.svg.png)](#-instruções-em-português)
 
 This project is a web application built using Streamlit, Python, and MySQL Connector that allows users to perform CRUD (Create, Read, Update, Delete) operations.
+
+
 <a href="https://ibb.co/vjGcy0z"><img src="https://i.ibb.co/S386YFv/Captura-de-Tela-3.png" alt="Captura-de-Tela-3" border="0" /></a>
 
 ## Instructions
