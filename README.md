@@ -44,7 +44,6 @@ This project is a web application built using Streamlit, Python, and MySQL Conne
 
 6. **Usage:**
 
-   - Open your browser and go to `http://localhost:8501` to access the application.
    - You can perform Create, Read, Update, and Delete operations through the user interface.
 
 ---
