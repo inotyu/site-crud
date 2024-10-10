@@ -34,7 +34,7 @@ This project is a web application built using Streamlit, Python, and MySQL Conne
 
 4. **Set up your MySQL database:**
 
-   - Create a database and tables as per your application requirements.
+   - Open the banco_git folder, modelos, and use the database_crud.sql file to create the configured database.
 
 5. **Run the application:**
 
@@ -72,7 +72,7 @@ This project is a web application built using Streamlit, Python, and MySQL Conne
 
 4. **Configure seu banco de dados MySQL:**
 
-   - Crie um banco de dados e tabelas de acordo com os requisitos da sua aplicação.
+   - Abra a pasta banco_git, modelos e use o arquivo database_crud.sql para a criação do banco de dados configurado.
 
 5. **Execute a aplicação:**
 
@@ -82,17 +82,7 @@ This project is a web application built using Streamlit, Python, and MySQL Conne
 
 6. **Uso:**
 
-   - Abra seu navegador e vá para `http://localhost:8501` para acessar a aplicação.
    - Você pode realizar operações de Criar, Ler, Atualizar e Deletar através da interface do usuário.
 
 ---
 
-### Contributing
-
-Feel free to contribute by submitting issues or pull requests.
-
-### License
-
-This project is licensed under the MIT License.
-
---- 
